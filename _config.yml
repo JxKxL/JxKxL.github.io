@@ -9,6 +9,8 @@ plugins:
   - jemoji
   - jekyll-sitemap
   - jekyll-seo-tag
+  
+  remote_theme: tareqdandachi/jekyll-shell-theme
 
 sass:
   style: compressed
