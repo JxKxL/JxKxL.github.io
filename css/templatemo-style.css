@@ -201,13 +201,13 @@ h2 {
 }
 
 .tm-bg-dark {
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgba(0,0,0,0.88);
 }
 
 .intro-left {
     margin-right: 20px;
     padding: 30px 40px;
-    max-width: 505px;    
+    max-width: 805px;    
 }
 
 .intro-img-1 {
@@ -250,7 +250,7 @@ h2 {
 
 /* Gallery page */
 .gallery-container {
-    max-width: 1300px;
+    max-width: 1600px;
 }
 
 .slick-dots {
@@ -262,7 +262,7 @@ h2 {
 	float: left;
     overflow: hidden;
     margin: 0;
-    max-width: 240px;
+    max-width: 840px;
     margin-left: 10px;
     margin-right: 10px;
 	height: auto;
@@ -556,7 +556,7 @@ figure.effect-julia:hover p {
 
 @media (max-width: 834px) {
     .intro-left {
-        width: 65%;
+        width: 95%;
     }
 
     .intro-right {
